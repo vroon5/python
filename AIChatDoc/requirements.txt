@@ -1,0 +1,4 @@
+gpt4all==2.0.2
+langchain==0.0.353
+chromadb==0.4.21
+numpy
